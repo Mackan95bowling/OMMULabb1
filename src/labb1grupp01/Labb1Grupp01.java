@@ -18,6 +18,7 @@ public class Labb1Grupp01 {
         // TODO code application logic here
         //tjenare hallå
         //hejigen
+        //elvir
     }
     
 }
